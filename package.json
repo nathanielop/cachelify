@@ -1,0 +1,17 @@
+{
+  "type": "module",
+  "name": "cachelify",
+  "version": "0.0.1",
+  "description": "A simple client side caching API",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nathanielop/cachelify.git"
+  },
+  "author": "Nathaniel Pendy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nathanielop/cachelify/issues"
+  },
+  "homepage": "https://github.com/nathanielop/cachelify#readme"
+}
